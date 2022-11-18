@@ -122,44 +122,7 @@ global.rkyt = []
 global.wlcm = []
 global.gcrevoke = []
 global.autorep = []
-global.ntilink = []
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+global.ntilink = [
 // DO NOT CHANGE THIS. ERROR WARNING දාන්න තැනක් නැතුව මෙතන දැම්මෙ.
 global.rep = { // All Replies = 145
     K1: '🫢හායි😁❤️',
