@@ -42,7 +42,7 @@ global.dragonchat = "false"  // chat bot  "true" / "false" (200 auto replies in 
 global.callblock = "false" // call block "true" / "false" ("true"  to block callers)
 global.antibad = "false" // To remove bad word senders
 global.antispam = "true" // To remove or block spammers
-global.antilink = "false" // To remove group link sharing peoples
+global.antilink = "true" // To remove group link sharing peoples
 global.upsongvoice = "false" // true/false \\ bot can upload song as voice note (it use your data and storage bacause auto download) you can put "false" (anyone can't get songs as voice note / your data is not wasted)
 global.welcom_msg = "true" // Welcome / Goodbye   [true/false]
 
@@ -52,7 +52,7 @@ global.ownertag = '+94765418376' //your tag number
 global.botname = '𝗦𝗢𝗢𝗡 𝗠𝗨𝗦𝗜𝗖- 𝘉𝘖𝘛' //ur bot name
 global.packname = "Bot Sticker" // sticker packname
 global.author = "𝗦𝗢𝗢𝗡 𝗠𝗨𝗦𝗜𝗖" // sticker author
-global.dragonemoji = '🧩' // Menu emoji
+global.dragonemoji = '⚙🗃️' // Menu emoji
 global.footer = '[ ◉ ʀᴇᴅ-ᴅʀᴀɢᴏɴ-ᴍᴅ ]' //
 
 //database
